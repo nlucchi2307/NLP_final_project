@@ -34,9 +34,9 @@ This project combines sentiment analysis, economic indicators, and machine learn
 - Economic indicators added **noise** to the classification model, reducing performance
 
 ## 📂 Files
-- `speech_analysis.ipynb`: preprocessing, sentiment scoring
-- `economic_health_index.ipynb`: economic data processing
-- `classification_model.ipynb`: tree-based model training and evaluation
+- `speeches_scraping.ipynb`: scraping presidential speeches, 
+- `speeches_analysis.ipynb`: preprocessing, sentiment scoring, analysis of economic indicators
+
 
 ## 👥 Authors
 Text Mining Final Paper @ BSE (2024-2025)  
