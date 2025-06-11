@@ -39,5 +39,5 @@ This project combines sentiment analysis, economic indicators, and machine learn
 
 
 ## 👥 Authors
-Text Mining Final Paper @ BSE (2024-2025)  
+Text Mining and Introduction to NLP Final Paper @ BSE (2024-2025)  
 Maria Aleman, Marta Sala, Noemi Lucchi
